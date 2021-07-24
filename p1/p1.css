@@ -1,3 +1,48 @@
 body {
-  background: #f2f2f2;
+  background: #F2F2F2;
+  margin: 10px;
+}
+
+header{
+  display: flex;
+  justify-content:space-between;
+  margin: 10px;
+}
+
+nav{
+  padding:25px;
+} 
+
+
+.label {
+  color: #62808F;
+  background:#D5DFE3;
+  padding:10px 40px;
+}
+
+main{
+  border-top-style:solid;
+  border-top-color: #00a0e9;
+}
+
+section{
+  display:flex;
+  background-color: white;
+  border-top-style:solid;
+  border-top-color: #F2F2F2;
+}
+
+.info{
+  display:flex
+}
+
+.statistic{
+  text-align: center;
+  padding: 10px;
+  width: 70px;
+}
+
+.MainContent{
+  padding: 10px;
+  padding-left: 20px;
 }
